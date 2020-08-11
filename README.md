@@ -83,7 +83,7 @@ public String toString ()
 Returns a character string which lists the name of the machine and its address.
 Example:
 
-````
+```
 InetAddress localAddress = InetAdress.getLocalHost ();
 InetAddress adressServer = InetAdress.getByName ("www.univ-mlv.fr");
 
